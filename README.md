@@ -57,9 +57,12 @@ How it Works
 
   -When a client disconnects, the server notifies other clients.
 
-
-Author
+# Author
 Athira Arun
+
+# OUTPUT
+![Image](https://github.com/user-attachments/assets/5af43bef-89ba-4328-a893-7bf9c96fa508)
+
 
 
 
