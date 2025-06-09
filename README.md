@@ -61,7 +61,8 @@ How it Works
 Athira Arun
 
 # OUTPUT
-![Image](https://github.com/user-attachments/assets/5af43bef-89ba-4328-a893-7bf9c96fa508)
+![Image](https://github.com/user-attachments/assets/a7d70c60-974a-4a3f-b30d-2e89cfa49d9b)
+
 
 
 
